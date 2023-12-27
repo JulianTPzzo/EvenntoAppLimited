@@ -15,7 +15,7 @@ Siéntete libre de realizar posteos dentro de la aplicación y explorar sus func
 
 Si encuentras algún error (bug) o tienes alguna consulta, por favor, utiliza [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSe0F-W1swbrgNOuA3YohLyz8Z_SZLZJOcCPiZ4b8qQf2icVTQ/viewform?embedded=true) para notificarlo. Apreciamos tu colaboración para mejorar la calidad del proyecto.
 
-## Funcionalidades Destacadas 🚀
+## Funcionalidades Actuales o Futuras Destacadas 🚀
 
 - **Posteos:** Crea y comparte tus pensamientos con tus seguidores.
 - **Reacciones:** Los seguidores pueden reaccionar a tus posteos de diversas maneras.
