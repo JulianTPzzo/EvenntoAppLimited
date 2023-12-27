@@ -11,7 +11,7 @@ Puedes acceder a la aplicación en [evenntoapplimited.onrender.com](https://even
 - **Usuario:** User
 - **Contraseña:** User1234
 
-Nota: Por favor ten paciencia al cargar, se esta usando un servicio gratis para la publicación de la app. 
+**Nota:** Por favor ten paciencia al cargar, se esta usando un servicio gratis para la publicación de la app. 
 
 Siéntete libre de realizar posteos dentro de la aplicación y explorar sus funcionalidades.
 
