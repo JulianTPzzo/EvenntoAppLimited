@@ -1,3 +1,5 @@
+![Imagen Logo](public/assets/Logo-EvenNoti-629aba89.png)
+
 ##Español
 
 # Proyecto de Red Social - EvenntoApp (Limitado)
